@@ -1,3 +1,16 @@
-Simple Calculator
+Simple console calculator built in C++.
 6/3/2025:
 it is currently a really simple calcultor with switch cases and IO Stream.
+Concepts Used
+- switch statements
+- while loops
+- user input/output
+Features
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Exit option
+- Division by zero handling
+
+
