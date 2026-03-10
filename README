@@ -1,5 +1,5 @@
 Simple console calculator built in C++.
-6/3/2025:
+6/3/2026:
 it is currently a really simple calcultor with switch cases and IO Stream.
 Concepts Used
 - switch statements
@@ -12,5 +12,6 @@ Features
 - Division
 - Exit option
 - Division by zero handling
-
+10/3/2026:
+- Added Functions
 
